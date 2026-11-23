@@ -98,6 +98,6 @@ Tôi fine-tune các LLM mở (Llama, Qwen, Mistral, Gemma) trên dữ liệu c�
 độ bền, triển khai on-prem.**
 
 - 📫 [email / LinkedIn / Upwork / Fiverr của bạn]
-- 🔗 Demo pipeline trực tiếp: [link repo demo / bài Viblo]
+- 🔗 Demo pipeline trực tiếp: https://github.com/leganvy/llm-finetune-demo
 
 *(Bản tiếng Anh của bài viết này có sẵn cho LinkedIn / cộng đồng quốc tế.)*

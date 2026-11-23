@@ -95,6 +95,6 @@ evaluated models. Specialties: **Vietnamese & multilingual NLP, structured outpu
 on-prem deployment.**
 
 - 📫 [your email / LinkedIn / Upwork / Fiverr link]
-- 🔗 Live demo pipeline: [link to the demo repo / Viblo post]
+- 🔗 Live demo pipeline: https://github.com/leganvy/llm-finetune-demo
 
 *(Note: a Vietnamese version of this article is available for Viblo / local community.)*
