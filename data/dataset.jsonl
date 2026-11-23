@@ -1,0 +1,170 @@
+{"input": "shop còn giày sneaker không ạ", "output": "{\"intent\": \"hoi_ton_kho\", \"san_pham\": \"giày sneaker\"}"}
+{"input": "áo thun con hang k shop", "output": "{\"intent\": \"hoi_ton_kho\", \"san_pham\": \"áo thun\"}"}
+{"input": "đơn 71239 của em tới đâu rồi ạ", "output": "{\"intent\": \"hoi_tinh_trang_don\", \"ma_don\": \"71239\"}"}
+{"input": "đơn 48931 của em tới đâu rồi ạ", "output": "{\"intent\": \"hoi_tinh_trang_don\", \"ma_don\": \"48931\"}"}
+{"input": "hàng giao chậm quá mình không hài lòng chút nào", "output": "{\"intent\": \"khieu_nai\"}"}
+{"input": "cho mình hỏi đơn #67510 bao giờ giao vậy shop", "output": "{\"intent\": \"hoi_tinh_trang_don\", \"ma_don\": \"67510\"}"}
+{"input": "áo thun giá bao nhiêu vậy ad", "output": "{\"intent\": \"hoi_gia\", \"san_pham\": \"áo thun\"}"}
+{"input": "đơn 57838 của em tới đâu rồi ạ", "output": "{\"intent\": \"hoi_tinh_trang_don\", \"ma_don\": \"57838\"}"}
+{"input": "quần jean con hang k shop", "output": "{\"intent\": \"hoi_ton_kho\", \"san_pham\": \"quần jean\"}"}
+{"input": "quần jean giá bao nhiêu vậy ad", "output": "{\"intent\": \"hoi_gia\", \"san_pham\": \"quần jean\"}"}
+{"input": "đơn #56642 bị lỗi cho em đổi hàng nha", "output": "{\"intent\": \"doi_tra\", \"ma_don\": \"56642\"}"}
+{"input": "cho mình hỏi đơn #75115 bao giờ giao vậy shop", "output": "{\"intent\": \"hoi_tinh_trang_don\", \"ma_don\": \"75115\"}"}
+{"input": "đơn 30260 của em tới đâu rồi ạ", "output": "{\"intent\": \"hoi_tinh_trang_don\", \"ma_don\": \"30260\"}"}
+{"input": "shop giao sai mẫu rồi, bực mình ghê", "output": "{\"intent\": \"khieu_nai\"}"}
+{"input": "shop giao sai mẫu rồi, bực mình ghê", "output": "{\"intent\": \"khieu_nai\"}"}
+{"input": "hàng giao chậm quá mình không hài lòng chút nào", "output": "{\"intent\": \"khieu_nai\"}"}
+{"input": "cho mình hỏi đơn #76642 bao giờ giao vậy shop", "output": "{\"intent\": \"hoi_tinh_trang_don\", \"ma_don\": \"76642\"}"}
+{"input": "hàng giao chậm quá mình không hài lòng chút nào", "output": "{\"intent\": \"khieu_nai\"}"}
+{"input": "áo thun con hang k shop", "output": "{\"intent\": \"hoi_ton_kho\", \"san_pham\": \"áo thun\"}"}
+{"input": "áo thun giá bao nhiêu vậy ad", "output": "{\"intent\": \"hoi_gia\", \"san_pham\": \"áo thun\"}"}
+{"input": "đơn #18455 bị lỗi cho em đổi hàng nha", "output": "{\"intent\": \"doi_tra\", \"ma_don\": \"18455\"}"}
+{"input": "cho hỏi giá cái tai nghe với", "output": "{\"intent\": \"hoi_gia\", \"san_pham\": \"tai nghe\"}"}
+{"input": "ship đơn so 71868 toi chua shop oi", "output": "{\"intent\": \"hoi_tinh_trang_don\", \"ma_don\": \"71868\"}"}
+{"input": "đơn 75830 của em tới đâu rồi ạ", "output": "{\"intent\": \"hoi_tinh_trang_don\", \"ma_don\": \"75830\"}"}
+{"input": "cho hỏi giá cái sạc dự phòng với", "output": "{\"intent\": \"hoi_gia\", \"san_pham\": \"sạc dự phòng\"}"}
+{"input": "nhận được hàng rồi nha, cảm ơn shop nhiều", "output": "{\"intent\": \"cam_on\"}"}
+{"input": "shop giao sai mẫu rồi, bực mình ghê", "output": "{\"intent\": \"khieu_nai\"}"}
+{"input": "ship đơn so 14507 toi chua shop oi", "output": "{\"intent\": \"hoi_tinh_trang_don\", \"ma_don\": \"14507\"}"}
+{"input": "hàng giao chậm quá mình không hài lòng chút nào", "output": "{\"intent\": \"khieu_nai\"}"}
+{"input": "hàng giao chậm quá mình không hài lòng chút nào", "output": "{\"intent\": \"khieu_nai\"}"}
+{"input": "shop giao sai mẫu rồi, bực mình ghê", "output": "{\"intent\": \"khieu_nai\"}"}
+{"input": "bình giữ nhiệt giá bao nhiêu vậy ad", "output": "{\"intent\": \"hoi_gia\", \"san_pham\": \"bình giữ nhiệt\"}"}
+{"input": "đơn 72793 của em tới đâu rồi ạ", "output": "{\"intent\": \"hoi_tinh_trang_don\", \"ma_don\": \"72793\"}"}
+{"input": "ship về Đà Nẵng mất mấy ngày vậy shop", "output": "{\"intent\": \"hoi_van_chuyen\"}"}
+{"input": "đơn 74972 của em tới đâu rồi ạ", "output": "{\"intent\": \"hoi_tinh_trang_don\", \"ma_don\": \"74972\"}"}
+{"input": "cho mình hỏi đơn #82134 bao giờ giao vậy shop", "output": "{\"intent\": \"hoi_tinh_trang_don\", \"ma_don\": \"82134\"}"}
+{"input": "ốp lưng giá bao nhiêu vậy ad", "output": "{\"intent\": \"hoi_gia\", \"san_pham\": \"ốp lưng\"}"}
+{"input": "shop giao sai mẫu rồi, bực mình ghê", "output": "{\"intent\": \"khieu_nai\"}"}
+{"input": "đơn #57045 bị lỗi cho em đổi hàng nha", "output": "{\"intent\": \"doi_tra\", \"ma_don\": \"57045\"}"}
+{"input": "phí ship bao nhiêu tiền ạ", "output": "{\"intent\": \"hoi_van_chuyen\"}"}
+{"input": "shop còn ốp lưng không ạ", "output": "{\"intent\": \"hoi_ton_kho\", \"san_pham\": \"ốp lưng\"}"}
+{"input": "hàng giao chậm quá mình không hài lòng chút nào", "output": "{\"intent\": \"khieu_nai\"}"}
+{"input": "ok shop, thanks nhé", "output": "{\"intent\": \"cam_on\"}"}
+{"input": "mình muốn đổi trả đơn 48393 được không", "output": "{\"intent\": \"doi_tra\", \"ma_don\": \"48393\"}"}
+{"input": "cho hỏi giá cái balo với", "output": "{\"intent\": \"hoi_gia\", \"san_pham\": \"balo\"}"}
+{"input": "phí ship bao nhiêu tiền ạ", "output": "{\"intent\": \"hoi_van_chuyen\"}"}
+{"input": "ship đơn so 92618 toi chua shop oi", "output": "{\"intent\": \"hoi_tinh_trang_don\", \"ma_don\": \"92618\"}"}
+{"input": "phí ship bao nhiêu tiền ạ", "output": "{\"intent\": \"hoi_van_chuyen\"}"}
+{"input": "quần jean giá bao nhiêu vậy ad", "output": "{\"intent\": \"hoi_gia\", \"san_pham\": \"quần jean\"}"}
+{"input": "hàng giao chậm quá mình không hài lòng chút nào", "output": "{\"intent\": \"khieu_nai\"}"}
+{"input": "cho hỏi giá cái sạc dự phòng với", "output": "{\"intent\": \"hoi_gia\", \"san_pham\": \"sạc dự phòng\"}"}
+{"input": "mình muốn đổi trả đơn 46020 được không", "output": "{\"intent\": \"doi_tra\", \"ma_don\": \"46020\"}"}
+{"input": "ship về Đà Nẵng mất mấy ngày vậy shop", "output": "{\"intent\": \"hoi_van_chuyen\"}"}
+{"input": "mình muốn đổi trả đơn 38740 được không", "output": "{\"intent\": \"doi_tra\", \"ma_don\": \"38740\"}"}
+{"input": "hàng giao chậm quá mình không hài lòng chút nào", "output": "{\"intent\": \"khieu_nai\"}"}
+{"input": "đơn 16475 của em tới đâu rồi ạ", "output": "{\"intent\": \"hoi_tinh_trang_don\", \"ma_don\": \"16475\"}"}
+{"input": "đơn #55804 bị lỗi cho em đổi hàng nha", "output": "{\"intent\": \"doi_tra\", \"ma_don\": \"55804\"}"}
+{"input": "ship đơn so 45833 toi chua shop oi", "output": "{\"intent\": \"hoi_tinh_trang_don\", \"ma_don\": \"45833\"}"}
+{"input": "ship đơn so 65089 toi chua shop oi", "output": "{\"intent\": \"hoi_tinh_trang_don\", \"ma_don\": \"65089\"}"}
+{"input": "áo thun con hang k shop", "output": "{\"intent\": \"hoi_ton_kho\", \"san_pham\": \"áo thun\"}"}
+{"input": "shop giao sai mẫu rồi, bực mình ghê", "output": "{\"intent\": \"khieu_nai\"}"}
+{"input": "đơn 74148 của em tới đâu rồi ạ", "output": "{\"intent\": \"hoi_tinh_trang_don\", \"ma_don\": \"74148\"}"}
+{"input": "hàng giao chậm quá mình không hài lòng chút nào", "output": "{\"intent\": \"khieu_nai\"}"}
+{"input": "phí ship bao nhiêu tiền ạ", "output": "{\"intent\": \"hoi_van_chuyen\"}"}
+{"input": "ok shop, thanks nhé", "output": "{\"intent\": \"cam_on\"}"}
+{"input": "nhận được hàng rồi nha, cảm ơn shop nhiều", "output": "{\"intent\": \"cam_on\"}"}
+{"input": "shop còn bình giữ nhiệt không ạ", "output": "{\"intent\": \"hoi_ton_kho\", \"san_pham\": \"bình giữ nhiệt\"}"}
+{"input": "ship về Đà Nẵng mất mấy ngày vậy shop", "output": "{\"intent\": \"hoi_van_chuyen\"}"}
+{"input": "shop còn đồng hồ không ạ", "output": "{\"intent\": \"hoi_ton_kho\", \"san_pham\": \"đồng hồ\"}"}
+{"input": "mình muốn đổi trả đơn 77008 được không", "output": "{\"intent\": \"doi_tra\", \"ma_don\": \"77008\"}"}
+{"input": "phí ship bao nhiêu tiền ạ", "output": "{\"intent\": \"hoi_van_chuyen\"}"}
+{"input": "mình muốn đổi trả đơn 10012 được không", "output": "{\"intent\": \"doi_tra\", \"ma_don\": \"10012\"}"}
+{"input": "nhận được hàng rồi nha, cảm ơn shop nhiều", "output": "{\"intent\": \"cam_on\"}"}
+{"input": "đơn 36381 của em tới đâu rồi ạ", "output": "{\"intent\": \"hoi_tinh_trang_don\", \"ma_don\": \"36381\"}"}
+{"input": "mình muốn đổi trả đơn 92362 được không", "output": "{\"intent\": \"doi_tra\", \"ma_don\": \"92362\"}"}
+{"input": "shop giao sai mẫu rồi, bực mình ghê", "output": "{\"intent\": \"khieu_nai\"}"}
+{"input": "đơn 8952 của em tới đâu rồi ạ", "output": "{\"intent\": \"hoi_tinh_trang_don\", \"ma_don\": \"8952\"}"}
+{"input": "ship về Đà Nẵng mất mấy ngày vậy shop", "output": "{\"intent\": \"hoi_van_chuyen\"}"}
+{"input": "ship về Đà Nẵng mất mấy ngày vậy shop", "output": "{\"intent\": \"hoi_van_chuyen\"}"}
+{"input": "cho hỏi giá cái đồng hồ với", "output": "{\"intent\": \"hoi_gia\", \"san_pham\": \"đồng hồ\"}"}
+{"input": "shop giao sai mẫu rồi, bực mình ghê", "output": "{\"intent\": \"khieu_nai\"}"}
+{"input": "nhận được hàng rồi nha, cảm ơn shop nhiều", "output": "{\"intent\": \"cam_on\"}"}
+{"input": "mình muốn đổi trả đơn 38302 được không", "output": "{\"intent\": \"doi_tra\", \"ma_don\": \"38302\"}"}
+{"input": "ship về Đà Nẵng mất mấy ngày vậy shop", "output": "{\"intent\": \"hoi_van_chuyen\"}"}
+{"input": "bình giữ nhiệt con hang k shop", "output": "{\"intent\": \"hoi_ton_kho\", \"san_pham\": \"bình giữ nhiệt\"}"}
+{"input": "cho mình hỏi đơn #61515 bao giờ giao vậy shop", "output": "{\"intent\": \"hoi_tinh_trang_don\", \"ma_don\": \"61515\"}"}
+{"input": "shop còn giày sneaker không ạ", "output": "{\"intent\": \"hoi_ton_kho\", \"san_pham\": \"giày sneaker\"}"}
+{"input": "hàng giao chậm quá mình không hài lòng chút nào", "output": "{\"intent\": \"khieu_nai\"}"}
+{"input": "đơn 65709 của em tới đâu rồi ạ", "output": "{\"intent\": \"hoi_tinh_trang_don\", \"ma_don\": \"65709\"}"}
+{"input": "cho mình hỏi đơn #29600 bao giờ giao vậy shop", "output": "{\"intent\": \"hoi_tinh_trang_don\", \"ma_don\": \"29600\"}"}
+{"input": "phí ship bao nhiêu tiền ạ", "output": "{\"intent\": \"hoi_van_chuyen\"}"}
+{"input": "cho hỏi giá cái giày sneaker với", "output": "{\"intent\": \"hoi_gia\", \"san_pham\": \"giày sneaker\"}"}
+{"input": "ship về Đà Nẵng mất mấy ngày vậy shop", "output": "{\"intent\": \"hoi_van_chuyen\"}"}
+{"input": "tai nghe giá bao nhiêu vậy ad", "output": "{\"intent\": \"hoi_gia\", \"san_pham\": \"tai nghe\"}"}
+{"input": "ốp lưng con hang k shop", "output": "{\"intent\": \"hoi_ton_kho\", \"san_pham\": \"ốp lưng\"}"}
+{"input": "đơn 22805 của em tới đâu rồi ạ", "output": "{\"intent\": \"hoi_tinh_trang_don\", \"ma_don\": \"22805\"}"}
+{"input": "mình muốn đổi trả đơn 53644 được không", "output": "{\"intent\": \"doi_tra\", \"ma_don\": \"53644\"}"}
+{"input": "đơn #37416 bị lỗi cho em đổi hàng nha", "output": "{\"intent\": \"doi_tra\", \"ma_don\": \"37416\"}"}
+{"input": "ok shop, thanks nhé", "output": "{\"intent\": \"cam_on\"}"}
+{"input": "ship đơn so 57429 toi chua shop oi", "output": "{\"intent\": \"hoi_tinh_trang_don\", \"ma_don\": \"57429\"}"}
+{"input": "nhận được hàng rồi nha, cảm ơn shop nhiều", "output": "{\"intent\": \"cam_on\"}"}
+{"input": "đơn #37493 bị lỗi cho em đổi hàng nha", "output": "{\"intent\": \"doi_tra\", \"ma_don\": \"37493\"}"}
+{"input": "ship về Đà Nẵng mất mấy ngày vậy shop", "output": "{\"intent\": \"hoi_van_chuyen\"}"}
+{"input": "bình giữ nhiệt con hang k shop", "output": "{\"intent\": \"hoi_ton_kho\", \"san_pham\": \"bình giữ nhiệt\"}"}
+{"input": "shop giao sai mẫu rồi, bực mình ghê", "output": "{\"intent\": \"khieu_nai\"}"}
+{"input": "ok shop, thanks nhé", "output": "{\"intent\": \"cam_on\"}"}
+{"input": "balo con hang k shop", "output": "{\"intent\": \"hoi_ton_kho\", \"san_pham\": \"balo\"}"}
+{"input": "ship đơn so 11876 toi chua shop oi", "output": "{\"intent\": \"hoi_tinh_trang_don\", \"ma_don\": \"11876\"}"}
+{"input": "ship đơn so 20830 toi chua shop oi", "output": "{\"intent\": \"hoi_tinh_trang_don\", \"ma_don\": \"20830\"}"}
+{"input": "balo giá bao nhiêu vậy ad", "output": "{\"intent\": \"hoi_gia\", \"san_pham\": \"balo\"}"}
+{"input": "cho mình hỏi đơn #64565 bao giờ giao vậy shop", "output": "{\"intent\": \"hoi_tinh_trang_don\", \"ma_don\": \"64565\"}"}
+{"input": "nhận được hàng rồi nha, cảm ơn shop nhiều", "output": "{\"intent\": \"cam_on\"}"}
+{"input": "hàng giao chậm quá mình không hài lòng chút nào", "output": "{\"intent\": \"khieu_nai\"}"}
+{"input": "ship đơn so 35438 toi chua shop oi", "output": "{\"intent\": \"hoi_tinh_trang_don\", \"ma_don\": \"35438\"}"}
+{"input": "cho hỏi giá cái áo thun với", "output": "{\"intent\": \"hoi_gia\", \"san_pham\": \"áo thun\"}"}
+{"input": "ship đơn so 55912 toi chua shop oi", "output": "{\"intent\": \"hoi_tinh_trang_don\", \"ma_don\": \"55912\"}"}
+{"input": "đơn #49398 bị lỗi cho em đổi hàng nha", "output": "{\"intent\": \"doi_tra\", \"ma_don\": \"49398\"}"}
+{"input": "hàng giao chậm quá mình không hài lòng chút nào", "output": "{\"intent\": \"khieu_nai\"}"}
+{"input": "hàng giao chậm quá mình không hài lòng chút nào", "output": "{\"intent\": \"khieu_nai\"}"}
+{"input": "shop còn giày sneaker không ạ", "output": "{\"intent\": \"hoi_ton_kho\", \"san_pham\": \"giày sneaker\"}"}
+{"input": "ship về Đà Nẵng mất mấy ngày vậy shop", "output": "{\"intent\": \"hoi_van_chuyen\"}"}
+{"input": "nhận được hàng rồi nha, cảm ơn shop nhiều", "output": "{\"intent\": \"cam_on\"}"}
+{"input": "đơn #81949 bị lỗi cho em đổi hàng nha", "output": "{\"intent\": \"doi_tra\", \"ma_don\": \"81949\"}"}
+{"input": "shop giao sai mẫu rồi, bực mình ghê", "output": "{\"intent\": \"khieu_nai\"}"}
+{"input": "shop giao sai mẫu rồi, bực mình ghê", "output": "{\"intent\": \"khieu_nai\"}"}
+{"input": "ship về Đà Nẵng mất mấy ngày vậy shop", "output": "{\"intent\": \"hoi_van_chuyen\"}"}
+{"input": "cho mình hỏi đơn #60853 bao giờ giao vậy shop", "output": "{\"intent\": \"hoi_tinh_trang_don\", \"ma_don\": \"60853\"}"}
+{"input": "ok shop, thanks nhé", "output": "{\"intent\": \"cam_on\"}"}
+{"input": "nhận được hàng rồi nha, cảm ơn shop nhiều", "output": "{\"intent\": \"cam_on\"}"}
+{"input": "phí ship bao nhiêu tiền ạ", "output": "{\"intent\": \"hoi_van_chuyen\"}"}
+{"input": "nhận được hàng rồi nha, cảm ơn shop nhiều", "output": "{\"intent\": \"cam_on\"}"}
+{"input": "shop giao sai mẫu rồi, bực mình ghê", "output": "{\"intent\": \"khieu_nai\"}"}
+{"input": "phí ship bao nhiêu tiền ạ", "output": "{\"intent\": \"hoi_van_chuyen\"}"}
+{"input": "đơn #52429 bị lỗi cho em đổi hàng nha", "output": "{\"intent\": \"doi_tra\", \"ma_don\": \"52429\"}"}
+{"input": "tai nghe con hang k shop", "output": "{\"intent\": \"hoi_ton_kho\", \"san_pham\": \"tai nghe\"}"}
+{"input": "quần jean con hang k shop", "output": "{\"intent\": \"hoi_ton_kho\", \"san_pham\": \"quần jean\"}"}
+{"input": "mình muốn đổi trả đơn 84137 được không", "output": "{\"intent\": \"doi_tra\", \"ma_don\": \"84137\"}"}
+{"input": "áo thun con hang k shop", "output": "{\"intent\": \"hoi_ton_kho\", \"san_pham\": \"áo thun\"}"}
+{"input": "quần jean giá bao nhiêu vậy ad", "output": "{\"intent\": \"hoi_gia\", \"san_pham\": \"quần jean\"}"}
+{"input": "ốp lưng giá bao nhiêu vậy ad", "output": "{\"intent\": \"hoi_gia\", \"san_pham\": \"ốp lưng\"}"}
+{"input": "ship đơn so 15408 toi chua shop oi", "output": "{\"intent\": \"hoi_tinh_trang_don\", \"ma_don\": \"15408\"}"}
+{"input": "shop còn đồng hồ không ạ", "output": "{\"intent\": \"hoi_ton_kho\", \"san_pham\": \"đồng hồ\"}"}
+{"input": "cho mình hỏi đơn #14419 bao giờ giao vậy shop", "output": "{\"intent\": \"hoi_tinh_trang_don\", \"ma_don\": \"14419\"}"}
+{"input": "cho mình hỏi đơn #75289 bao giờ giao vậy shop", "output": "{\"intent\": \"hoi_tinh_trang_don\", \"ma_don\": \"75289\"}"}
+{"input": "ship đơn so 71335 toi chua shop oi", "output": "{\"intent\": \"hoi_tinh_trang_don\", \"ma_don\": \"71335\"}"}
+{"input": "đơn 48659 của em tới đâu rồi ạ", "output": "{\"intent\": \"hoi_tinh_trang_don\", \"ma_don\": \"48659\"}"}
+{"input": "hàng giao chậm quá mình không hài lòng chút nào", "output": "{\"intent\": \"khieu_nai\"}"}
+{"input": "cho mình hỏi đơn #10216 bao giờ giao vậy shop", "output": "{\"intent\": \"hoi_tinh_trang_don\", \"ma_don\": \"10216\"}"}
+{"input": "nhận được hàng rồi nha, cảm ơn shop nhiều", "output": "{\"intent\": \"cam_on\"}"}
+{"input": "đồng hồ giá bao nhiêu vậy ad", "output": "{\"intent\": \"hoi_gia\", \"san_pham\": \"đồng hồ\"}"}
+{"input": "giày sneaker con hang k shop", "output": "{\"intent\": \"hoi_ton_kho\", \"san_pham\": \"giày sneaker\"}"}
+{"input": "shop giao sai mẫu rồi, bực mình ghê", "output": "{\"intent\": \"khieu_nai\"}"}
+{"input": "cho hỏi giá cái bình giữ nhiệt với", "output": "{\"intent\": \"hoi_gia\", \"san_pham\": \"bình giữ nhiệt\"}"}
+{"input": "hàng giao chậm quá mình không hài lòng chút nào", "output": "{\"intent\": \"khieu_nai\"}"}
+{"input": "shop còn ốp lưng không ạ", "output": "{\"intent\": \"hoi_ton_kho\", \"san_pham\": \"ốp lưng\"}"}
+{"input": "đơn 16119 của em tới đâu rồi ạ", "output": "{\"intent\": \"hoi_tinh_trang_don\", \"ma_don\": \"16119\"}"}
+{"input": "nhận được hàng rồi nha, cảm ơn shop nhiều", "output": "{\"intent\": \"cam_on\"}"}
+{"input": "mình muốn đổi trả đơn 62078 được không", "output": "{\"intent\": \"doi_tra\", \"ma_don\": \"62078\"}"}
+{"input": "mình muốn đổi trả đơn 64417 được không", "output": "{\"intent\": \"doi_tra\", \"ma_don\": \"64417\"}"}
+{"input": "cho hỏi giá cái quần jean với", "output": "{\"intent\": \"hoi_gia\", \"san_pham\": \"quần jean\"}"}
+{"input": "ship đơn so 14393 toi chua shop oi", "output": "{\"intent\": \"hoi_tinh_trang_don\", \"ma_don\": \"14393\"}"}
+{"input": "ship về Đà Nẵng mất mấy ngày vậy shop", "output": "{\"intent\": \"hoi_van_chuyen\"}"}
+{"input": "shop còn nón lưỡi trai không ạ", "output": "{\"intent\": \"hoi_ton_kho\", \"san_pham\": \"nón lưỡi trai\"}"}
+{"input": "mình muốn đổi trả đơn 91709 được không", "output": "{\"intent\": \"doi_tra\", \"ma_don\": \"91709\"}"}
+{"input": "ship đơn so 68676 toi chua shop oi", "output": "{\"intent\": \"hoi_tinh_trang_don\", \"ma_don\": \"68676\"}"}
+{"input": "cho mình hỏi đơn #27897 bao giờ giao vậy shop", "output": "{\"intent\": \"hoi_tinh_trang_don\", \"ma_don\": \"27897\"}"}
+{"input": "đơn #48415 bị lỗi cho em đổi hàng nha", "output": "{\"intent\": \"doi_tra\", \"ma_don\": \"48415\"}"}
+{"input": "ship đơn so 91448 toi chua shop oi", "output": "{\"intent\": \"hoi_tinh_trang_don\", \"ma_don\": \"91448\"}"}
+{"input": "đơn #4544 bị lỗi cho em đổi hàng nha", "output": "{\"intent\": \"doi_tra\", \"ma_don\": \"4544\"}"}
+{"input": "phí ship bao nhiêu tiền ạ", "output": "{\"intent\": \"hoi_van_chuyen\"}"}

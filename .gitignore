@@ -1,0 +1,15 @@
+# Trained weights are large (LoRA adapter ~127MB > GitHub 100MB limit).
+# Keep the eval report (the proof); regenerate weights with run_demo.sh.
+runs/*/adapter/
+runs/*/trainer/
+runs/smoke/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+# Local scratch
+*.log
+.DS_Store
