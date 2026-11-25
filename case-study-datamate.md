@@ -94,7 +94,8 @@ I fine-tune open LLMs (Llama, Qwen, Mistral, Gemma) on your data and deliver pro
 evaluated models. Specialties: **Vietnamese & multilingual NLP, structured output, robustness,
 on-prem deployment.**
 
-- 📫 [your email / LinkedIn / Upwork / Fiverr link]
+- 📫 Fiverr gig: https://www.fiverr.com/s/wbWYX5w
+- 🧑‍💻 GitHub: https://github.com/leganvy
 - 🔗 Live demo pipeline: https://github.com/leganvy/llm-finetune-demo
 
 *(Note: a Vietnamese version of this article is available for Viblo / local community.)*

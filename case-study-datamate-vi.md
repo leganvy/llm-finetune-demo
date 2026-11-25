@@ -97,7 +97,8 @@ Tôi fine-tune các LLM mở (Llama, Qwen, Mistral, Gemma) trên dữ liệu c�
 đạt chuẩn production, đã đánh giá. Thế mạnh: **NLP tiếng Việt & đa ngôn ngữ, sinh có cấu trúc,
 độ bền, triển khai on-prem.**
 
-- 📫 [email / LinkedIn / Upwork / Fiverr của bạn]
+- 📫 Fiverr gig: https://www.fiverr.com/s/wbWYX5w
+- 🧑‍💻 GitHub: https://github.com/leganvy
 - 🔗 Demo pipeline trực tiếp: https://github.com/leganvy/llm-finetune-demo
 
 *(Bản tiếng Anh của bài viết này có sẵn cho LinkedIn / cộng đồng quốc tế.)*
